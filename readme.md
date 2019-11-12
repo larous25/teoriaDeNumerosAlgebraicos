@@ -1,8 +1,9 @@
-#Trabajo del semillero - teoria de numeros algebraicos
+Trabajo del semillero - teoria de numeros algebraicos
+-------------------------------------------------------
 
 semillero guiado por el profesor 'Gillermo Mantilla' 
 estudiantes konradlorenz 
-brian bustos 
-nicolas camargo
-miguel angle
-luis
+- brian bustos 
+- nicolas camargo
+- miguel angle
+- luis
